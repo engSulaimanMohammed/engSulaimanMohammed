@@ -4,7 +4,8 @@ Electronics and Communications Engineering Graduate
 Java & Spring Boot Developer
 
 ## Skills
-Java | OOP | Spring Boot | REST APIs | Git | GitHub | Postman
+
+![Skills](https://skillicons.dev/icons?i=java,spring,git,github,postman,idea,html,css)
 
 ## Projects
 - Hospital Management System
