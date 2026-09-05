@@ -1,7 +1,12 @@
-# Hi, I'm Sulaiman Mohammed 👋
+<h1 align="center">Hi, I'm Sulaiman Mohammed 👋</h1>
 
-Electronics and Communications Engineering Graduate  
-Java & Spring Boot Developer
+<h3 align="center">
+  Electronics & Telecommunications Engineering Graduate
+</h3>
+
+<p align="center">
+  Java • Spring Boot • Backend Development
+</p>
 
 ## Skills
 
