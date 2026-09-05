@@ -8,9 +8,9 @@ Java & Spring Boot Developer
 ![Skills](https://skillicons.dev/icons?i=java,spring,git,github,postman,idea,html,css)
 
 ## Projects
-- Hospital Management System
-- School Management System
-- Human Resource System
+
+- 🏥 Hospital Management System
+- 👥 Human Resource System
 
 ## Currently Learning
 Advanced Java & Spring Boot
