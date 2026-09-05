@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sulaiman Mohammed 👋
 
-<!--
-**engSulaimanMohammed/engSulaimanMohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics and Communications Engineering Graduate  
+Java & Spring Boot Developer
 
-Here are some ideas to get you started:
+## Skills
+Java | OOP | Spring Boot | REST APIs | Git | GitHub | Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Hospital Management System
+- School Management System
+- Human Resource System
+
+## Currently Learning
+Advanced Java & Spring Boot
