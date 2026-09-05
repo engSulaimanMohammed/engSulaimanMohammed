@@ -14,3 +14,10 @@ Java & Spring Boot Developer
 
 ## Currently Learning
 Advanced Java & Spring Boot
+
+
+## GitHub Stats
+
+![Sulaiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=engSulaimanMohammed&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=engSulaimanMohammed&layout=compact)
