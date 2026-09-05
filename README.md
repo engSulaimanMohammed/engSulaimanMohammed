@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f172a,50:1e3a8a,100:0f172a&text=&fontColor=ffffff" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Sulaiman+Mohammed+%F0%9F%91%8B;Java+%26+Spring+Boot+Developer;Electronics+%26+Telecommunications+Engineer" />
-</p>
-
-<p align="center">
-  <b>Backend Development • REST APIs • Java OOP</b>
+  <img src="./ChatGPT Image Sep 5, 2026, 03_41_01 PM.png" alt="GitHub Banner" width="100%">
 </p>
 
 ## Skills
